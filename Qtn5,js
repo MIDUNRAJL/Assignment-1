@@ -1,0 +1,3 @@
+let sampleMonths = 30;
+let remainigMonths = sampleMonths % 12;
+console.log(remainigMonths);
