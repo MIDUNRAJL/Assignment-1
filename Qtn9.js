@@ -1,7 +1,4 @@
-let size_1 = 'S';
-let size_2 = 'M';
-let size_3 = 'L';
-let size_4 = 'XL';
+
 var name = 'S';
 if(name== 'S'){
     console.log("Small")
